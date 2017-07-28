@@ -2,7 +2,7 @@
 static char * taskunfocus_xpm[] = {
 "1 32 3 1",
 " 	c None",
-".	c #396280",
+".	c #943B4A",
 "+	c #212121",
 ".",
 ".",

@@ -2,7 +2,7 @@
 static char * taskfocus_xpm[] = {
 "1 32 3 1",
 " 	c None",
-".	c #62A7D9",
+".	c #FF8095",
 "+	c #212121",
 ".",
 ".",
